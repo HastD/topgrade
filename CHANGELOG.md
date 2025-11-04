@@ -7,6 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [16.2.0](https://github.com/HastD/topgrade/compare/v16.1.2...v16.2.0) - 2025-11-04
+
+### Added
+
+- *(os)* add AOSC OS support ([#1424](https://github.com/HastD/topgrade/pull/1424))
+- add damp run type ([#1217](https://github.com/HastD/topgrade/pull/1217))
+
+### Other
+
+- remove template expansion in code contexts ([#1434](https://github.com/HastD/topgrade/pull/1434))
+- *(deps)* bump github/codeql-action from 4.31.0 to 4.31.2 ([#1427](https://github.com/HastD/topgrade/pull/1427))
+- don't persist credentials in actions/checkout ([#1422](https://github.com/HastD/topgrade/pull/1422))
+- Improve CONTRIBUTING.md ([#1420](https://github.com/HastD/topgrade/pull/1420))
+- Update SECURITY.md ([#1421](https://github.com/HastD/topgrade/pull/1421))
+- Enforce conventional commits in PR titles ([#1418](https://github.com/HastD/topgrade/pull/1418))
+- Improve contributing section
+- Remove roadmap
+- Reformat README.md
+- Update installation methods
+- *(release)* Fix dispatch error in create_release_assets.yml ([#1406](https://github.com/HastD/topgrade/pull/1406))
+
 ## [16.1.2](https://github.com/topgrade-rs/topgrade/compare/v16.1.1...v16.1.2) - 2025-11-01
 
 ### Fixed
